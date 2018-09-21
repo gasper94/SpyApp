@@ -36,4 +36,4 @@ SpyApp: App that Encodes and Decodes messages using 4 different methods.
  
  # Note
  - If you input a character not specified in the cipher's description,
- it will tell you to correct the input.
+ the app will tell you to correct the input.
